@@ -5,13 +5,12 @@ html *{
 
 header{
     background-color: rgb(105, 162, 177);
-    height: fit-content;
+    height: 25vh;;
 }
 
 header img{
     width: 5vw;
     height: auto;
-    margin: 2vw 1vh;
 }
 
 header div{
